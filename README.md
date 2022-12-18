@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @aliencoder 👽
-- 👀 I’m interested in blockchain and cryptography
-- 🌱 I’m currently learning Dart, Go, Kotlin
-- 💞️ I’m looking to collaborate on crypto projects
+👋 Hi, I’m @aliencoder 👽 💻 🛸
+
+👀 I’m interested in blockchain and cryptography ✨
+
+🌱 I’m currently learning Go, Dart, Kotlin 📚
+
+💞️ I’m looking to collaborate on crypto projects ⛓️
+
+🚀 Open source is the way
 
 <!---
 alienc0der/alienc0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
