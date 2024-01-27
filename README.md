@@ -2,7 +2,7 @@
 
 👀 I’m interested in blockchain and cryptography ✨
 
-🌱 I’m currently learning Go, Dart, Kotlin 📚
+🌱 I’m currently learning Rust, Dart and Go 📚
 
 💞️ I’m looking to collaborate on crypto projects ⛓️
 
